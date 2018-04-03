@@ -14,7 +14,7 @@ The "Advanced Cisco Switch Config" tab provides the following:<br>
   - The commands for a wired Guest Portal Redirection<br>
   - Advanced Device Sensor configuration for IOS 15+<br>
   
-The "Cisco Switch Config" code has been tested on IOS 12.2.55SE5 - IOS 15.1<br>
+The "Cisco Switch Config" code has been tested on IOS 12.2.55-SE5 - IOS 15.1<br>
 
 The "Juniper EX Config" code has been tested on JUNOS 12.x - JUNOS 15.x<br>
 
