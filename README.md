@@ -1,4 +1,11 @@
 # wired-802.1x-spreadsheet
+
+## Updated - 04/14/2020
+
+Added Aruba-CX configuration - h/t Aaron Smith at Aruba!
+
+##
+
 This spreadsheet will help deploy wired 802.1X on Cisco, Juniper, Extreme, an HPE platforms<br>
 
 To get started, fill out the "Start Here" tab. On this tab, you can fill out the following information:<br>
