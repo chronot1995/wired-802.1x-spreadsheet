@@ -1,5 +1,9 @@
 # wired-802.1x-spreadsheet
 
+## Updated - 10/14/2020
+
+Added additional Aruba-CX configurations. h/t to Aaron Smith at Aruba, as always!
+
 ## Updated - 04/14/2020
 
 Added Aruba-CX configuration - h/t Aaron Smith at Aruba!
